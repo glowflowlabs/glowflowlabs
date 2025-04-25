@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 👨🏼‍💻 I’m a Brazilian
+- 🇧🇷 I’m a Brazilian
 - 🌱I’m currently learing DevOps
-- 🔭working as a web developer since 2012
+- 👨🏼‍💻working as a web developer since 2012
 
 
 # 💻 Tech Stack:
